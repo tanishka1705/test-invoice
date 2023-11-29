@@ -1,0 +1,17 @@
+export const payment = [
+    {amount: 0, date: '23 Nov, 2023'},
+    {amount: 1, date: '23 Nov, 2023'},
+    {amount: 2, date: '23 Nov, 2023'},
+    {amount: 3, date: '23 Nov, 2023'},
+    {amount: 4, date: '23 Nov, 2023'},
+    {amount: 5, date: '23 Nov, 2023'},
+    {amount: 6, date: '23 Nov, 2023'},
+    {amount: 7, date: '23 Nov, 2023'},
+    {amount: 8, date: '23 Nov, 2023'},
+    {amount: 9, date: '23 Nov, 2023'},
+    {amount: 10, date: '23 Nov, 2023'},
+    {amount: 11, date: '23 Nov, 2023'},
+    {amount: 12, date: '23 Nov, 2023'},
+    {amount: 13, date: '23 Nov, 2023'},
+    {amount: 14, date: '23 Nov, 2023'},
+]

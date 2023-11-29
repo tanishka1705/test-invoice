@@ -1,0 +1,42 @@
+[
+    {
+        "name": "GAMMAEDGE TECHNOLOGIES PRIVATE LIMITED",
+        "email": "accounts@gammaedge.io",
+        "gstin": "23aajcg9212c1zz",
+        "pan": "aajcg9212c",
+        "account": {
+            "acc_no": "657305602436",
+            "bank": "ICICI Bank",
+            "ifsc": "ICIC0006573"
+        },
+        "address": {
+            "street": "404, N1 Sky Star, New Ranibagh",
+            "city": "Indore",
+            "state": "Madhya Pradesh",
+            "pin": 452001,
+            "country": "India"
+        },
+        "contact": "8878811955",
+        "password": "gammaedge123"
+    },
+    {
+        "name": "CUBEXO SOFTWARE SOLUTIONS",
+        "email": "accounts@cubexo.io",
+        "gstin": "67AAJCG9212C1RT",
+        "pan": "qetjcgt12c",
+        "account": {
+            "acc_no": "757305602436",
+            "bank": "ICICI Bank",
+            "ifsc": "ICIC0006573"
+        },
+        "address": {
+            "street": "404, N1 Sky Star, New Ranibagh",
+            "city": "Indore",
+            "state": "Madhya Pradesh",
+            "pin": 452001,
+            "country": "India"
+        },
+        "contact": "7584512456",
+        "password": "cubexo123"
+    }
+]
